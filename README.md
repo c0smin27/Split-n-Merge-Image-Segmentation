@@ -18,7 +18,6 @@ This project implements an image segmentation technique using the **Split and Me
 - Numpy
 - OpenCV
 - Matplotlib
-- Jupyter Notebook (exported as HTML for presentation)
 
 ## Disclaimer
 
