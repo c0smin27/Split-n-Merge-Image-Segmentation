@@ -4,7 +4,7 @@
 
 This project implements an image segmentation technique using the **Split and Merge algorithm**, written and executed in **Google Colab**. The image is recursively divided into homogeneous regions and then merged based on intensity similarity. The notebook includes full visualization, explanation, and step-by-step execution.
 
-**To properly view the complete project (including code, output, and visualizations), please download the `Split_and_Merge_Segmentation.html` file and open it locally in any modern web browser.**
+**❗❗ To properly view the complete project (including code, output, and visualizations), please download the `Split_and_Merge_Segmentation.html` file and open it locally in any modern web browser.**
 
 ## How the Algorithm Works
 
