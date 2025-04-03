@@ -2,21 +2,21 @@
 
 ## Description
 
-This project implements an image segmentation technique using the **Split and Merge algorithm**, written in Python. It divides the image recursively into homogeneous regions, then merges adjacent ones based on intensity similarity. The project includes full visualization and step-by-step execution through an interactive notebook.
+This project implements an image segmentation technique using the **Split and Merge algorithm**, written and executed in **Google Colab**. The image is recursively divided into homogeneous regions and then merged based on intensity similarity. The notebook includes full visualization, explanation, and step-by-step execution.
 
 ## How the Algorithm Works
 
 1. **Split**: The image is recursively divided into quadrants until a homogeneity criterion is met.
 2. **Merge**: Adjacent regions with similar pixel values are merged to reduce over-segmentation.
-3. **Display**: The result is shown alongside the original image and intermediate segmentation states.
+3. **Display**: The result is shown alongside the original image and intermediate segmentation steps.
 
 ## Technologies Used
 
-- Python (with Jupyter Notebook / nbconvert)
+- Python (**Google Colab**)
 - Numpy
 - OpenCV
 - Matplotlib
-- HTML export for presentation
+- Jupyter Notebook (exported as HTML for presentation)
 
 ## Disclaimer
 
