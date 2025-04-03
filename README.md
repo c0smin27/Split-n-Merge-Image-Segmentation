@@ -1,10 +1,8 @@
-# Split and Merge Image Segmentation
+# Split and Merge Image Segmentation with Python
 
 ## Description
 
-This project implements the **Split and Merge algorithm** for image segmentation. It is designed to segment an image based on pixel intensity homogeneity by recursively dividing the image into smaller regions (splitting), and then merging adjacent regions that are similar.
-
-The final result is visualized along with intermediate steps and a comparison to the original image.
+This project implements an image segmentation technique using the **Split and Merge algorithm**, written in Python. It divides the image recursively into homogeneous regions, then merges adjacent ones based on intensity similarity. The project includes full visualization and step-by-step execution through an interactive notebook.
 
 ## How the Algorithm Works
 
